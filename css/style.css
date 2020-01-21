@@ -24,7 +24,6 @@ img{
     margin-left: auto;
     margin-right: auto;
     width: 525px;
-    height: auto;
 }
 
 div{
@@ -33,17 +32,17 @@ div{
 }
 
 #red{
-    background-color: red;
+    background-color: #FF0000;
     text-align: right;
 }
 
 #blue{
-    background-color: blue;
+    background-color: #0000FF;
     text-align: left;
 }
 
 #yellow{
-    background-color: yellow;
+    background-color: #FFFF00;
     text-align: right;
     color: black;
 }
@@ -53,7 +52,7 @@ div{
 }
 
 #green{
-    background-color: green;
+    background-color: #008000;
     text-align: left;
 }
 
